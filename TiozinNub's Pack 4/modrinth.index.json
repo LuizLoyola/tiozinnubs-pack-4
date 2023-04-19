@@ -1,0 +1,310 @@
+{
+    "dependencies": {
+        "forge": "43.2.8",
+        "minecraft": "1.19.2"
+    },
+    "files": [
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/r0v8vy1s/versions/gxfBnR7p/alternate-current-mc1.19-1.5.0.jar"
+            ],
+            "fileSize": 36900,
+            "hashes": {
+                "sha1": "e3cea9e171c7edb2a3868e83a9c8264ea5b51c84",
+                "sha512": "2ea0cf94bb836704d1894e48db0cd3d4f2b6935d1238a7411d1923038efd4c6ade6490c75b1c585b1bc95aa65afacd7dcab896d01b6f6cfaff317613af9e3d80"
+            },
+            "path": "mods/alternate-current-mc1.19-1.5.0.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/Jw3Wx1KR/versions/Ec5c8oRK/antighost-1.19.1-forge42.0.1-1.1.3.jar"
+            ],
+            "fileSize": 149299,
+            "hashes": {
+                "sha1": "5bc3c4d1d9477efe8eafdb457aa31cdba8078568",
+                "sha512": "cd1b01a4dd4568e5b2ba65627e0a510102cd1222e78ecd12b0b8925840a94d176f14932c46916aba115e225d90007f4e2ad11e5cacaa35d8db5c9a2f7f0bd129"
+            },
+            "path": "mods/antighost-1.19.1-forge42.0.1-1.1.3.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/EsAfCjCV/versions/forge-mc1.19-2.4.2/appleskin-forge-mc1.19-2.4.2.jar"
+            ],
+            "fileSize": 46991,
+            "hashes": {
+                "sha1": "20f4e36e5c78bdef303683ccb96d77b2036da3ce",
+                "sha512": "c564c6772cf42b4d07141baf334a95176b66238c7b500324595e53f1a45cb0e0a181599e3b5a3b3654a7a0d229c3f3a8d88374005cfb89a56264dcc2898309be"
+            },
+            "path": "mods/appleskin-forge-mc1.19-2.4.2.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/lhGA9TYQ/versions/Kwuu4O4w/architectury-6.5.77-forge.jar"
+            ],
+            "fileSize": 546192,
+            "hashes": {
+                "sha1": "0aab8817d2afd240aa3203f686c65272c2604aa1",
+                "sha512": "1f03069ce2c4f241b4008291bc0bbdc3c65005fd1d366e8e57f7156e177d256167f6b2632988ecded107368332db0b241031c97703709ab442a15f58b9b611bc"
+            },
+            "path": "mods/architectury-6.5.77-forge.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/ftdbN0KK/versions/FVH3CFm8/badpackets-forge-0.2.1.jar"
+            ],
+            "fileSize": 27793,
+            "hashes": {
+                "sha1": "a5b71f36dface6f0f91efb32d1af0861752e204e",
+                "sha512": "e89d9d72003e4d05b6a896da4be99e65d7f017ee24c3fedd50ed7f02eec4d05265fbcfd3ce6c3625ee8a4e0ae7d66c742fdd56dab62a348d527a414da5f605f5"
+            },
+            "path": "mods/badpackets-forge-0.2.1.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/Bta0Pt47/versions/1.19.1-forge42.0.1-1.2/beenfo-1.19.1-forge42.0.1-1.2.jar"
+            ],
+            "fileSize": 48954,
+            "hashes": {
+                "sha1": "498b8cb3be15333b26eabe89f792aaa670f01dbf",
+                "sha512": "570be60373b8ebff5476230b3403cb6c10b4838c2329ef722282f7de2f091f3347f90aa4cbec11de3fce7f25ba2af9c037d56cfc940b108b5c0bf5c524210344"
+            },
+            "path": "mods/beenfo-1.19.1-forge42.0.1-1.2.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/9s6osm5g/versions/Fw7B2c97/cloth-config-8.2.88-forge.jar"
+            ],
+            "fileSize": 1151677,
+            "hashes": {
+                "sha1": "fbd645755abc0dbe5eb1adeb5e649835294a769f",
+                "sha512": "ce2ba15870f0c316fcc5a62bac3795e4e4b57421e4a65b3c3c906436786b1b6f2fd9b1301e24c3fdaa44701670e8520dceac8b817bcdd76de186a4fe8ec256cd"
+            },
+            "path": "mods/cloth-config-8.2.88-forge.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/hAt6ty93/versions/2.6.4%2B1.19.2-forge/DetailArmorBar-2.6.4%2B1.19.2-forge.jar"
+            ],
+            "fileSize": 53337,
+            "hashes": {
+                "sha1": "8ffb342b3b9acefde740031110be83a5570efc1a",
+                "sha512": "8b1189b4f04f8e565fd5986a65eb1e1a8fbd925b97614019195c0676bbeb4524c8c794f879fe9bbd3a5db65f728ecb4c7604a873ab3495bcdabc2100adc5e042"
+            },
+            "path": "mods/DetailArmorBar-2.6.4+1.19.2-forge.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/LTM1f0yY/versions/1.19.1-forge42.0.1-1.10/durabilityviewer-1.19.1-forge42.0.1-1.10.jar"
+            ],
+            "fileSize": 138956,
+            "hashes": {
+                "sha1": "f3ae32dcb804e382390a57a7379f0d9eb18a6f14",
+                "sha512": "52e5241e0cf04dd62a5eac019f08251c2a9d88c379969c68cf29e707bd3b323e0e58b41c4b57914af8245a64e05946251f6cbf1cdbb2db5cb3e5035dd0cf9941"
+            },
+            "path": "mods/durabilityviewer-1.19.1-forge42.0.1-1.10.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/hFMCvH85/versions/1.19.2-2.6.0/EditSign-1.19.2-2.6.0.jar"
+            ],
+            "fileSize": 1066615,
+            "hashes": {
+                "sha1": "31cccf9a8d59e2d26924f471e53925e02feefc72",
+                "sha512": "06a63e9270217ee2d07e8d22461b3d082a426c9e59a0a54cdbe5348d602ecec35931017ffb10c8c5ff57991153b40475f52e1140012e8bfb2ff756d329eba82d"
+            },
+            "path": "mods/EditSign-1.19.2-2.6.0.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/kCpssoSb/versions/Jy0nBwT7/Fastload-Reforged-2.6.9%2B1.19.2.jar"
+            ],
+            "fileSize": 56766,
+            "hashes": {
+                "sha1": "ec0ef78a74af71033f661589f17415e422197074",
+                "sha512": "c9b683b949b25c7344f7df21699cb25876569c2aeb2f7d0a5590a80e67393fe60c822bea06d82cbe08260a01836701711a39aabafd0128fc1c83c50db5fe632d"
+            },
+            "path": "mods/Fastload-Reforged-2.6.9+1.19.2.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/R6SANxhd/versions/XFRQOWLG/Rhodium%201.19.3%20V4.5.jar"
+            ],
+            "fileSize": 14972,
+            "hashes": {
+                "sha1": "e120fbcc1704fcf0e661494771ba50ffe5a43b40",
+                "sha512": "b0bba36ad1d0eb72290b29af4842d80d53450fefab27ca0e92846ffefdf4857044aa5fe0294fdbf047b4344d4b66a37a334b1cdc0df5512f11d8e3f21e5daa75"
+            },
+            "path": "mods/lazydfu-1.19-1.0.2.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/US93mifm/versions/Xmjn8tH7/lightspeed-1.19.2-1.0.2.jar"
+            ],
+            "fileSize": 51354,
+            "hashes": {
+                "sha1": "227373984d3bd32ac8b084343a33e269053a9c6c",
+                "sha512": "1ec040b7e3245ab88b0672ad3218658af63dc485fce9e8fdfafac0e747407d466b5b68edae92da9a8b23556ac8ecf28d2ae48646842a8e40a180c049f322e4e7"
+            },
+            "path": "mods/lightspeed-1.19.2-1.0.2.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/9ON3zv6e/versions/ZI7qhVe3/Log-Begone-Forge-1.19-1.0.5.jar"
+            ],
+            "fileSize": 58393,
+            "hashes": {
+                "sha1": "0ba93d6795a278ec5addc19e9b3d4c0d409c0606",
+                "sha512": "c7e88bffd12cc0b9d2fbb7bf922c9c9f40250fae7940c75ee37dbd1d79d566bcedec5f6c261a70f85f04e4b3100ce17f5e24208f1f978cdfe1a2363cf7383ab1"
+            },
+            "path": "mods/Log-Begone-Forge-1.19-1.0.5.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/aC3cM3Vq/versions/1.19-2.23-forge/MouseTweaks-forge-mc1.19-2.23.jar"
+            ],
+            "fileSize": 75983,
+            "hashes": {
+                "sha1": "9d6e76a331c0598edb6293dc658af2d1672864b4",
+                "sha512": "ba7c37155f252ee10176d2209cd168a80dd9cecb999e815096f381ff8662bfd3c903c06619bb836c2ed5d1771f7de7bf3be0d7cf4d0ea1de989a92517a4b7b93"
+            },
+            "path": "mods/MouseTweaks-forge-mc1.19-2.23.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/qQyHxfxd/versions/RNAG69Zu/NoChatReports-FORGE-1.19.2-v1.5.1.jar"
+            ],
+            "fileSize": 204615,
+            "hashes": {
+                "sha1": "476312ba20f6da0a9d4a21b874e41d7efe719d2f",
+                "sha512": "1a7f516dd3fa9e8ebd58b7488ef971773a2d370827869b9f567ad07dc48926ac7ad52498e0ae691976faadf96793ad688aeb102209f4f439e12920e2769e8b20"
+            },
+            "path": "mods/NoChatReports-FORGE-1.19.2-v1.5.1.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/yM94ont6/versions/D7Tg80lr/notenoughcrashes-4.2.1%2B1.19.2-forge.jar"
+            ],
+            "fileSize": 154959,
+            "hashes": {
+                "sha1": "eecb31640eefae392c5c778028f2116e1094798c",
+                "sha512": "70b721a172c6433be3f63722fc6f752b608170baf499ac987004abac07b425738677289197eb27d330933e29bb3057f9bd4b64dc124ec8744e08a07cfa1c51ba"
+            },
+            "path": "mods/notenoughcrashes-4.2.1+1.19.2-forge.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/I2K4u1Q7/versions/7JnXMAAf/pluto-mc1.19.2-0.0.9.jar"
+            ],
+            "fileSize": 162595,
+            "hashes": {
+                "sha1": "b0e9b7817ebfae40a56da53129361822ee379974",
+                "sha512": "060d2a1e1fc2a3c14e97955814b0c1aed8ea703ee23079d39567ae61f29857f712895f32ceb0a14376f23ffe3d91b1ca011a066eacdae9071dacf7d66ebbb2f5"
+            },
+            "path": "mods/pluto-mc1.19.2-0.0.9.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/4AiJdRfV/versions/nswAOup6/radon-0.8.2.jar"
+            ],
+            "fileSize": 98778,
+            "hashes": {
+                "sha1": "f971a5b3da7a1aaa43da063839d6da9646482874",
+                "sha512": "1767ff2d8ae889938a6b1f5d07b75763068855d2f8a0985109ef34317f0bc7b66cd2a76c76d8c39afdad32497e5379e83367c633cadff81231a2254e033bba52"
+            },
+            "path": "mods/radon-0.8.2.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/qw2Ls89j/versions/lXEvi0Th/rebind_narrator-forge-1.19.2-2.0.0.jar"
+            ],
+            "fileSize": 14346,
+            "hashes": {
+                "sha1": "ad2508750c34f79e6b1533f93129b78ac538469e",
+                "sha512": "72422140c1dfc525d2dd48e542f72dfd39c598b6dab179db5ce43f927810e05fdf9bc37f16d31639f55518cd12b622d3c1b68cfc4402841400a80762cfa5a303"
+            },
+            "path": "mods/rebind_narrator-forge-1.19.2-2.0.0.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/nfn13YXA/versions/nXb4fR0b/RoughlyEnoughItems-9.1.595.jar"
+            ],
+            "fileSize": 2139202,
+            "hashes": {
+                "sha1": "07472fa9e9c4fc7fc3ec2dff441fed9a3b15a151",
+                "sha512": "9719e13588eb5445a22d83289ff4752b3441a212be91b0506419b3537393431fd5c044fdf0f8a4e1bd14d36244420c8849cdf30d68405885524adc9c8225ba03"
+            },
+            "path": "mods/RoughlyEnoughItems-9.1.595.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/4ZqxOvjD/versions/Hlexif59/rubidium-0.6.2a.jar"
+            ],
+            "fileSize": 1383807,
+            "hashes": {
+                "sha1": "10279cd20734b108282498d951dde1c0bd60c367",
+                "sha512": "1c6fe30514f3859c6ebd43e4751085b086a8f5929b52f32f75d34f62a1525fc4766dcd4141aa908fc295379585f7ddcd385e21c9d884aca5a6e4a3866f2682cd"
+            },
+            "path": "mods/rubidium-0.6.2a.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/2eT495vq/versions/t8sUqMLe/saturn-mc1.19.2-0.0.1.jar"
+            ],
+            "fileSize": 20765,
+            "hashes": {
+                "sha1": "435eee6924fb950f1a05ec503e799e66615a0428",
+                "sha512": "d474252261f38fd6d4928f84a0d48ca8ec8d15d63b2d0e8316ba329488bd8ae8fe8b54f0983773401851d1d3f12efc743f897cef0ed3b3889bf816e9d0349278"
+            },
+            "path": "mods/saturn-mc1.19.2-0.0.1.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/z53V2L4P/versions/YXklcDpN/smoothboot%28reloaded%29-mc1.19.2-0.0.2.jar"
+            ],
+            "fileSize": 39847,
+            "hashes": {
+                "sha1": "8dd9eee295f36f00e1332545b744c17d23fa96d9",
+                "sha512": "088159d319c613289774b7f4710493240154ee2fe3f58373bf114cd80be108525015187cf618f256cf14329bb2442271bf54b099f81dea853a2489c0c6ed447b"
+            },
+            "path": "mods/smoothboot(reloaded)-mc1.19.2-0.0.2.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/iRfIGC1s/versions/1.1.1%2B1.19/starlight-1.1.1%2Bforge.cf5b10b.jar"
+            ],
+            "fileSize": 110720,
+            "hashes": {
+                "sha1": "3d80b848c966841deeeba70305e38a29b7e3788d",
+                "sha512": "679598564accbf0b9adb9bf947fe1c2b4dd9a90a6ce3f5013ab52d5f9411ea9f0c5865c20e94f59c4a02d83b5ab8b9368eb26c13da996960074c9688f8d24f56"
+            },
+            "path": "mods/starlight-1.1.1+forge.cf5b10b.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/uCcYS9la/versions/1.19.1-forge42.0.1-1.3.1/worldtime-1.19.1-forge42.0.1-1.3.1.jar"
+            ],
+            "fileSize": 85211,
+            "hashes": {
+                "sha1": "8d1a560c5c498b21770e125ca73bd25a0839bc8e",
+                "sha512": "2638821f933d4aa7c425b03aa5f2e45ac1b802665ab28ba2ae61ee922fe8384171a9f38b47144e9c53a62d75142a28908ed335ea6047d019a9d1155b6bc69515"
+            },
+            "path": "mods/worldtime-1.19.1-forge42.0.1-1.3.1.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/6AQIaxuO/versions/ttxeE3f4/wthit-forge-5.15.2.jar"
+            ],
+            "fileSize": 424991,
+            "hashes": {
+                "sha1": "b0094f85bb84bf27ae05f5e696b7eef40d83de58",
+                "sha512": "bd022f86174dd0209473b4461a2047d99be7ebfef86a2620e73aa982a46f57e0473ecfb374ec8f71dd1b6fb08536c9dbd8ab8121fc124340cae0dc2869267475"
+            },
+            "path": "mods/wthit-forge-5.15.2.jar"
+        }
+    ],
+    "formatVersion": 1,
+    "game": "minecraft",
+    "name": "TiozinNub's Pack 4",
+    "summary": "Added only performance and simple QOL mods.",
+    "versionId": "0.1"
+}
