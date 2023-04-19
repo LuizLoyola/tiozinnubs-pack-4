@@ -50,6 +50,17 @@
         },
         {
             "downloads": [
+                "https://cdn.modrinth.com/data/bbGCtEvb/versions/gZhDSdgg/ArmorStatues-v4.0.4-1.19.2-Forge.jar"
+            ],
+            "fileSize": 221003,
+            "hashes": {
+                "sha1": "88ee8487a1170a476df45271516dbb459f4f8341",
+                "sha512": "08c53c0007456bb20a0ef57329207341f005864ff3191d4b8f47d96421e8cde109397833ebc432d942b9d7092e29510ae73a80e2c65523da0c2fc4815b1ec93f"
+            },
+            "path": "mods/ArmorStatues-v4.0.4-1.19.2-Forge.jar"
+        },
+        {
+            "downloads": [
                 "https://cdn.modrinth.com/data/ftdbN0KK/versions/FVH3CFm8/badpackets-forge-0.2.1.jar"
             ],
             "fileSize": 27793,
@@ -69,6 +80,17 @@
                 "sha512": "570be60373b8ebff5476230b3403cb6c10b4838c2329ef722282f7de2f091f3347f90aa4cbec11de3fce7f25ba2af9c037d56cfc940b108b5c0bf5c524210344"
             },
             "path": "mods/beenfo-1.19.1-forge42.0.1-1.2.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/Bno70aWr/versions/JFEnmw85/betterfog-1.19.2-1.1.1.jar"
+            ],
+            "fileSize": 1335612,
+            "hashes": {
+                "sha1": "c650584bc32ece14f61cff34e0e4c667a8ba7c7e",
+                "sha512": "3fa8d2e987c7e33baf078fb218aef8dcc6ed38db8f866d2ccd486b29af98c062ce1a120c0b5276d54592941055912346d24c90f04d03c9523436618cd4358bdb"
+            },
+            "path": "mods/betterfog-1.19.2-1.1.1.jar"
         },
         {
             "downloads": [
@@ -94,6 +116,17 @@
         },
         {
             "downloads": [
+                "https://cdn.modrinth.com/data/UEtTD3gP/versions/VZBs1cjU/Ding-1.19.2-Forge-1.4.0.jar"
+            ],
+            "fileSize": 18850,
+            "hashes": {
+                "sha1": "8a4aa55bf67da1b239919c9501b9784baba9468e",
+                "sha512": "9b3e05588e70338b414a871a2ef9751d2730f78d8c4e800f930708bdc5496f9c2ff5209ea34a098a72af3f8e2442f39a36cacc69bfa22ff3318d604b79c11398"
+            },
+            "path": "mods/Ding-1.19.2-Forge-1.4.0.jar"
+        },
+        {
+            "downloads": [
                 "https://cdn.modrinth.com/data/LTM1f0yY/versions/1.19.1-forge42.0.1-1.10/durabilityviewer-1.19.1-forge42.0.1-1.10.jar"
             ],
             "fileSize": 138956,
@@ -116,6 +149,17 @@
         },
         {
             "downloads": [
+                "https://cdn.modrinth.com/data/CYSUVOdj/versions/rFb9ikqH/EquipmentCompare-1.19.1-1.3.1.jar"
+            ],
+            "fileSize": 29458,
+            "hashes": {
+                "sha1": "bccdabd3bbd13356de419530808e66e98459df94",
+                "sha512": "25d8e6256bb73457480e1abf362005a6616f274695d9d92e5b8a16c48898430b59eaf70ec244374cc05be0ede5327c77f5256b0452fe323f09e7658a6355d4e9"
+            },
+            "path": "mods/EquipmentCompare-1.19.1-1.3.1.jar"
+        },
+        {
+            "downloads": [
                 "https://cdn.modrinth.com/data/kCpssoSb/versions/Jy0nBwT7/Fastload-Reforged-2.6.9%2B1.19.2.jar"
             ],
             "fileSize": 56766,
@@ -124,6 +168,28 @@
                 "sha512": "c9b683b949b25c7344f7df21699cb25876569c2aeb2f7d0a5590a80e67393fe60c822bea06d82cbe08260a01836701711a39aabafd0128fc1c83c50db5fe632d"
             },
             "path": "mods/Fastload-Reforged-2.6.9+1.19.2.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/p1WH6sHr/versions/9EzZrBZ1/From-The-Fog-1.19-v1.8.1-Forge-Fabric.jar"
+            ],
+            "fileSize": 7774322,
+            "hashes": {
+                "sha1": "a70ab0546282b616bf451d6e0817abf881b9f522",
+                "sha512": "63dc20f3077ab5f9a9b8ef9cae57785c940c94b69477b0bbcd077723eda23e38865e33620335776b010b23d974c3a4ce1828baf902eb4fc3afa8bf71f8a581d5"
+            },
+            "path": "mods/From-The-Fog-1.19-v1.8.1-Forge-Fabric.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/5faXoLqX/versions/wog3r1ZM/Iceberg-1.19.2-forge-1.1.4.jar"
+            ],
+            "fileSize": 109565,
+            "hashes": {
+                "sha1": "d41dcb0a6397e889603b59a52a12f5d0ce7e675f",
+                "sha512": "5cfc45a1622e2c0ece90d76f6a95e33e50f981b4a3c3847334451192756a6d08b564793c8aa451156cb2fbe99c7254b705c921c1bdc072c4515e248952552c92"
+            },
+            "path": "mods/Iceberg-1.19.2-forge-1.1.4.jar"
         },
         {
             "downloads": [
@@ -204,6 +270,17 @@
         },
         {
             "downloads": [
+                "https://cdn.modrinth.com/data/QAGBst4M/versions/mC47wVQz/PuzzlesLib-v4.3.12-1.19.2-Forge.jar"
+            ],
+            "fileSize": 260480,
+            "hashes": {
+                "sha1": "e9eea8c06b7e35988a51a7ec25fbb5bce4946639",
+                "sha512": "61044d5da44ae4f716a4034c2e401f4bc435d08f19943ed0a9a1392e667cc4a3bbbb629920a704592ccefdcf756c660d34c1c8acc547e52a18bf226d408355ab"
+            },
+            "path": "mods/PuzzlesLib-v4.3.12-1.19.2-Forge.jar"
+        },
+        {
+            "downloads": [
                 "https://cdn.modrinth.com/data/4AiJdRfV/versions/nswAOup6/radon-0.8.2.jar"
             ],
             "fileSize": 98778,
@@ -270,6 +347,17 @@
         },
         {
             "downloads": [
+                "https://cdn.modrinth.com/data/Z6ykjRlM/versions/VA4K616J/spyglass_improvements-1.4%2Bmc1.19%2Bforge.jar"
+            ],
+            "fileSize": 48450,
+            "hashes": {
+                "sha1": "aad5e0ee09ceb55420798e0639d8844dafa60e03",
+                "sha512": "ca5ab91496d147d8d49e8b85e85243955fec3643e3d02ae9d384e8e7a03c8d2fd77434846c62ae233b7989146b5edf16f6f23cfc6524f9197c20380fbf3f420e"
+            },
+            "path": "mods/spyglass_improvements-1.4+mc1.19+forge.jar"
+        },
+        {
+            "downloads": [
                 "https://cdn.modrinth.com/data/iRfIGC1s/versions/1.1.1%2B1.19/starlight-1.1.1%2Bforge.cf5b10b.jar"
             ],
             "fileSize": 110720,
@@ -305,6 +393,5 @@
     "formatVersion": 1,
     "game": "minecraft",
     "name": "TiozinNub's Pack 4",
-    "summary": "Added only performance and simple QOL mods.",
-    "versionId": "0.1"
+    "versionId": "0.1.1"
 }

@@ -26,8 +26,8 @@ screenEffectScale:1.0
 fovEffectScale:1.0
 darknessEffectScale:1.0
 gamma:0.5
-renderDistance:12
-simulationDistance:12
+renderDistance:6
+simulationDistance:16
 entityDistanceScaling:1.0
 guiScale:3
 particles:0
@@ -148,11 +148,12 @@ key_gui.xaero_alternative_list_players:key.keyboard.unknown
 key_gui.xaero_toggle_pac_players:key.keyboard.unknown
 key_gui.xaero_toggle_pac_chunk_claims:key.keyboard.unknown
 key_gui.xaero_minimap_settings:key.keyboard.y
+key_key.spyglass-improvements.use:key.keyboard.z
 key_Options Gui:key.keyboard.i
 key_key.antighost.reveal:key.keyboard.g
 key_options.narrator:key.keyboard.b:CONTROL
 soundCategory_master:1.0
-soundCategory_music:0.20862676
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

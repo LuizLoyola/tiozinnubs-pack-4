@@ -1,14 +1,8 @@
 {
 	"basics": {
-		"favorites": [
-			"{data:{Count:1b,id:\"minecraft:cobbled_deepslate_slab\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"minecraft:bubble_coral_block\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"minecraft:stone\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
-		],
+		"favorites": [],
 		"hiddenFavorites": [],
-		"displayHistory": [
-			"{DisplayHistoryCategory:\"minecraft:plugins/smelting\",DisplayHistoryContains:1b,DisplayHistoryData:{cookTime:200.0d,input:[[{Count:1b,id:\"minecraft:cobblestone\",type:\"minecraft:item\"}]],location:\"minecraft:stone\",output:[[{Count:1b,id:\"minecraft:stone\",type:\"minecraft:item\"}]],xp:0.1f},DisplayHistoryUUID:\"1b32ea08-fd13-412b-9243-f0acc8e6f907\"}"
-		],
+		"displayHistory": [],
 		// Declares whether cheating mode is on.
 		"cheating": false,
 		"favoritesEnabled": true,
