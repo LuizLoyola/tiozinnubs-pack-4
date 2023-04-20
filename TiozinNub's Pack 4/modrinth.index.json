@@ -138,17 +138,6 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/UEtTD3gP/versions/VZBs1cjU/Ding-1.19.2-Forge-1.4.0.jar"
-            ],
-            "fileSize": 18850,
-            "hashes": {
-                "sha1": "8a4aa55bf67da1b239919c9501b9784baba9468e",
-                "sha512": "9b3e05588e70338b414a871a2ef9751d2730f78d8c4e800f930708bdc5496f9c2ff5209ea34a098a72af3f8e2442f39a36cacc69bfa22ff3318d604b79c11398"
-            },
-            "path": "mods/Ding-1.19.2-Forge-1.4.0.jar"
-        },
-        {
-            "downloads": [
                 "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.9a-1.19.2/DistantHorizons-1.6.9a-1.19.2.jar"
             ],
             "fileSize": 2612822,
@@ -190,6 +179,17 @@
                 "sha512": "25d8e6256bb73457480e1abf362005a6616f274695d9d92e5b8a16c48898430b59eaf70ec244374cc05be0ede5327c77f5256b0452fe323f09e7658a6355d4e9"
             },
             "path": "mods/EquipmentCompare-1.19.1-1.3.1.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/Wq5SjeWM/versions/eYC1ifpZ/fancymenu_forge_2.14.4_MC_1.19-1.19.2.jar"
+            ],
+            "fileSize": 1347586,
+            "hashes": {
+                "sha1": "ead963e90d91d1cfb63d4a3eec4a5f512c2944b8",
+                "sha512": "6a07d4dbf2b640aacdae1979f6d858419c89083cae96a900f75cbd2752c091a73ce0fc523201e6e87321f143c68b0988475d4451483be1332dae1d1f18b76d83"
+            },
+            "path": "mods/fancymenu_forge_2.14.4_MC_1.19-1.19.2.jar"
         },
         {
             "downloads": [
@@ -248,6 +248,17 @@
         },
         {
             "downloads": [
+                "https://cdn.modrinth.com/data/J81TRJWm/versions/nyYTkFWh/konkrete_forge_1.6.0_MC_1.19-1.19.2.jar"
+            ],
+            "fileSize": 628818,
+            "hashes": {
+                "sha1": "ee067b9add82b9f12e4330daab5a28aebae0b956",
+                "sha512": "884d876f9309af6d60348823278a482716b46685c2b4bfc0aca84308d0485f2b888c229c457cbf7ce693143156826fdbbb03b9b6d0a19de4170e6528ed6d9757"
+            },
+            "path": "mods/konkrete_forge_1.6.0_MC_1.19-1.19.2.jar"
+        },
+        {
+            "downloads": [
                 "https://cdn.modrinth.com/data/ordsPcFz/versions/g1yJJy48/kotlinforforge-3.11.0-all.jar"
             ],
             "fileSize": 7298651,
@@ -300,6 +311,17 @@
                 "sha512": "1ec040b7e3245ab88b0672ad3218658af63dc485fce9e8fdfafac0e747407d466b5b68edae92da9a8b23556ac8ecf28d2ae48646842a8e40a180c049f322e4e7"
             },
             "path": "mods/lightspeed-1.19.2-1.0.2.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/TqCKvqjC/versions/q8si2roM/loadmyresources_forge_1.0.4_MC_1.19-1.19.2.jar"
+            ],
+            "fileSize": 31790,
+            "hashes": {
+                "sha1": "c9259e6e2ed793cacb4a4bcb15d69051a7293dd5",
+                "sha512": "21355321ee4e079a3b04430c54ff8490a12bf9e06b0409b03a43b3178139cce8c48207f50448402982aa760172123e5c5dd194753eb2cc214bf1827a2a03fe0f"
+            },
+            "path": "mods/loadmyresources_forge_1.0.4_MC_1.19-1.19.2.jar"
         },
         {
             "downloads": [
@@ -424,17 +446,6 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/2eT495vq/versions/t8sUqMLe/saturn-mc1.19.2-0.0.1.jar"
-            ],
-            "fileSize": 20765,
-            "hashes": {
-                "sha1": "435eee6924fb950f1a05ec503e799e66615a0428",
-                "sha512": "d474252261f38fd6d4928f84a0d48ca8ec8d15d63b2d0e8316ba329488bd8ae8fe8b54f0983773401851d1d3f12efc743f897cef0ed3b3889bf816e9d0349278"
-            },
-            "path": "mods/saturn-mc1.19.2-0.0.1.jar"
-        },
-        {
-            "downloads": [
                 "https://cdn.modrinth.com/data/2M01OLQq/versions/xA1gdRlk/shulkerboxtooltip-forge-3.2.2%2B1.19.2.jar"
             ],
             "fileSize": 212749,
@@ -534,17 +545,6 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/uCcYS9la/versions/1.19.1-forge42.0.1-1.3.1/worldtime-1.19.1-forge42.0.1-1.3.1.jar"
-            ],
-            "fileSize": 85211,
-            "hashes": {
-                "sha1": "8d1a560c5c498b21770e125ca73bd25a0839bc8e",
-                "sha512": "2638821f933d4aa7c425b03aa5f2e45ac1b802665ab28ba2ae61ee922fe8384171a9f38b47144e9c53a62d75142a28908ed335ea6047d019a9d1155b6bc69515"
-            },
-            "path": "mods/worldtime-1.19.1-forge42.0.1-1.3.1.jar"
-        },
-        {
-            "downloads": [
                 "https://cdn.modrinth.com/data/6AQIaxuO/versions/ttxeE3f4/wthit-forge-5.15.2.jar"
             ],
             "fileSize": 424991,
@@ -569,5 +569,5 @@
     "formatVersion": 1,
     "game": "minecraft",
     "name": "TiozinNub's Pack 4",
-    "versionId": "0.2"
+    "versionId": "0.2.1"
 }

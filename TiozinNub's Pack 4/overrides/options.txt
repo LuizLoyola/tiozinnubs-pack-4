@@ -72,7 +72,7 @@ skipRealms32bitWarning:false
 hideMatchedNames:true
 joinedFirstServer:true
 hideBundleTutorial:false
-syncChunkWrites:true
+syncChunkWrites:false
 showAutosaveIndicator:true
 allowServerListing:true
 chatPreview:1
@@ -124,7 +124,7 @@ key_placebo.toggleWings:key.keyboard.keypad.8
 key_key.configured.open_mod_list:key.keyboard.unknown
 key_key.push_to_talk:key.keyboard.caps.lock
 key_key.whisper:key.keyboard.unknown
-key_key.mute_microphone:key.keyboard.unknown
+key_key.mute_microphone:key.keyboard.m:ALT
 key_key.disable_voice_chat:key.keyboard.n
 key_key.hide_icons:key.keyboard.h
 key_key.voice_chat:key.keyboard.v

@@ -39,7 +39,7 @@ optionsButton = true
 			# This indicates how quickly fake chunks decrease in quality the further away they are. 
 			# Higher settings will render higher quality fake chunks farther away, 
 			# but will increase memory and GPU usage.
-			horizontalQuality = "MEDIUM"
+			horizontalQuality = "HIGH"
 			# This determines how lod level drop off will be done. 
 			#
 			# SMOOTH_DROPOFF: 
@@ -143,7 +143,7 @@ optionsButton = true
 					#
 					# Note that for 'BASIC' mode and 'IGNORE_HEIGHT' mode, fog settings for height fog has no effect.
 					#
-					heightFogMixMode = "BASIC"
+					heightFogMixMode = "MULTIPLY"
 					# Where should the height fog be located? 
 					#
 					# ABOVE_CAMERA: Height fog starts from camera to the sky 
@@ -170,7 +170,7 @@ optionsButton = true
 					#   '0.0': Fog end with no offset.
 					#   '1.0': Fog end with offset of the entire world's height. (Include depth)
 					#
-					heightFogEnd = 1.0
+					heightFogEnd = 0.75
 					# What is the minimum fog thickness? 
 					#
 					#   '0.0': No fog at all.
@@ -218,7 +218,7 @@ optionsButton = true
 			#
 			# This setting shouldn't affect performance. 
 			#
-			vanillaOverdraw = "DYNAMIC"
+			vanillaOverdraw = "ALWAYS"
 			# If on Vanilla Overdraw mode of NEVER, how much should should the border be offset? 
 			#
 			#  '1': The start of lods will be shifted inwards by 1 chunk, causing 1 chunk of overdraw. 
@@ -227,7 +227,7 @@ optionsButton = true
 			# This setting can be used to deal with gaps due to our vanilla rendered chunk 
 			#   detection not being perfect. 
 			#
-			overdrawOffset = 0
+			overdrawOffset = 5
 			# Will prevent some overdraw issues, but may cause nearby fake chunks to render incorrectly 
 			# especially when in/near an ocean. 
 			#
@@ -275,7 +275,7 @@ optionsButton = true
 			# NOTE: Due to current limitations, the min value is 50 
 			# and the max value is 5000. Any values outside this range 
 			# will be set to 0(disabled).
-			earthCurveRatio = 0
+			earthCurveRatio = 250
 
 	[client.worldGenerator]
 		# Whether to enable Distant chunks generator? 
