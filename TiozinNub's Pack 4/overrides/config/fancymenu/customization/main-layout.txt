@@ -15,10 +15,11 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
-  orientation = mid-centered
-  x = 2
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_singleplayer_button
+  x = 102
   action = movebutton
-  y = -17
+  y = 22
 }
 
 customization {
@@ -35,18 +36,20 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
-  orientation = mid-centered
-  x = -100
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_singleplayer_button
+  x = 0
   action = movebutton
-  y = 47
+  y = 86
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  orientation = mid-centered
-  x = 2
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_singleplayer_button
+  x = 102
   action = movebutton
-  y = 47
+  y = 86
 }
 
 customization {
@@ -55,19 +58,12 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  orientation = mid-centered
-  x = -100
-  action = movebutton
-  y = -39
-}
-
-customization {
   identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
-  orientation = mid-centered
-  x = -100
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_singleplayer_button
+  x = 0
   action = movebutton
-  y = 5
+  y = 44
 }
 
 customization {
@@ -85,7 +81,7 @@ customization {
 customization {
   orientation = top-left
   hidden = false
-  x = 186
+  x = 506
   width = 268
   action = deep_customization_element:title_screen_forge_top
   actionid = c0825e23-09fc-412e-9452-7a8d7a2897161682019695662
@@ -100,18 +96,18 @@ customization {
   width = 143
   action = deep_customization_element:title_screen_branding
   actionid = bef8cd4c-2036-48cf-9179-6cc5c967fc921682019695667
-  y = 287
+  y = 647
   height = 50
 }
 
 customization {
   orientation = top-left
   hidden = false
-  x = 411
+  x = 1051
   width = 228
   action = deep_customization_element:title_screen_forge_copyright
   actionid = 26e5a0ae-736c-4453-bdaa-3d12fadae5441682019695667
-  y = 319
+  y = 679
   height = 9
 }
 
@@ -129,7 +125,7 @@ customization {
 customization {
   orientation = top-left
   hidden = false
-  x = 183
+  x = 503
   width = 274
   action = deep_customization_element:title_screen_logo
   actionid = 565722f5-e54b-4fc0-ae1c-2b5f3cc89f101682019695667
@@ -151,15 +147,16 @@ customization {
 }
 
 customization {
-  orientation = mid-centered
+  orientation = element
   loopbackgroundanimations = true
   restartbackgroundanimations = true
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_singleplayer_button
   buttonaction = joinserver;tp4.tiozinnub.com.br%btnaction_splitter_fm%
-  x = -100
+  x = 0
   width = 98
   action = addbutton
   actionid = 3acbc81a-a3e5-48fb-a566-8c20c9050c981682019709831
-  y = -17
+  y = 22
   label = Join the Server!
   height = 20
 }
